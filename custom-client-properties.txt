@@ -3,4 +3,4 @@ server.port=8081
 # custom properties
 project.name=Spring Boot Application
 
-management.endpoints.web.exposure.include=*+
+management.endpoints.web.exposure.include=*
